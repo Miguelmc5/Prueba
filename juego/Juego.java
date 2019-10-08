@@ -34,22 +34,10 @@ public class Juego {
 	}
 	if(intentos==5)
 	{
-		System.out.println("P14:21 13/03/2019erdiste tonto");
-	}
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+		System.out.println("Perdiste tonto");
+	}                                                        
+              
+       
         
     }
     
